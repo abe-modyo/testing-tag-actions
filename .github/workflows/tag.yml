@@ -2,7 +2,7 @@ name: Tag Reaction
 on:
   push:
     tags:
-      - '@dynamic-framework/*@*'
+      - '@dynamic-framework/ui-react@*'
 
 jobs:
   build:
